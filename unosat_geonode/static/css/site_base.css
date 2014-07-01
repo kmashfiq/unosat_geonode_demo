@@ -1,0 +1,10 @@
+.nav-logo {
+    width: 350px;
+    height: 50px;
+    background: url(../img/unosat_unitar.png) no-repeat;
+}
+
+
+.navbar .navbar-inner {
+    background: #000080;
+}
